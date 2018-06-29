@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CosmicRayMerged</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAb-wfR_B74l5rwyYysiU9h4iSKlTvapmA</string>
+</resources>
